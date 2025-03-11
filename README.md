@@ -15,17 +15,11 @@ By:
 Krish Sandhu
 [202401100300138]
 
------------
-
 Course:
 B. Tech - Computer Science and Engineering with Artificial Intelligence
 
------------
-
 Institution:
 KIET Group of Institutions
-
------------
 
 Date:
 11 March 2025
