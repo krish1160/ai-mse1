@@ -8,3 +8,24 @@ We can slide four adjacent tiles (left, right, above, and below) into the empty
 space.
 
 Utilization of Breadth First Approach O(n!) Time and O(n!) Space 
+
+-----------
+
+By:
+Krish Sandhu
+[202401100300138]
+
+-----------
+
+Course:
+B. Tech - Computer Science and Engineering with Artificial Intelligence
+
+-----------
+
+Institution:
+KIET Group of Institutions
+
+-----------
+
+Date:
+11 March 2025
